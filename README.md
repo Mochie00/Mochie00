@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mochie00
 - 👀 I’m interested in books and anime
 - 🌱 I’m currently learning C++ language
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me on my ig Moch Dookie
 
 <!---
